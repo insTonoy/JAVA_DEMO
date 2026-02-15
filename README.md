@@ -1,4 +1,4 @@
 # JAVA_DEMO
 this is just a demo part of my java project, A library management system where there is only users and patrons.  
-<b> <br>
-Author - TAHOSIN IFTIAK TONOY
+<br>
+Author - <b>TAHOSIN IFTIAK TONOY
