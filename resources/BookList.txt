@@ -1,0 +1,50 @@
+Fundamentals of Wavelets,1,Goswami Jaideva  
+Dune,2,Frank Herbert  
+1984,3,George Orwell  
+The Hitchhiker's Guide to the Galaxy,4,Douglas Adams  
+Brave New World,5,Aldous Huxley  
+Fahrenheit 451,6,Ray Bradbury  
+The Martian,7,Andy Weir  
+Neuromancer,8,William Gibson  
+Snow Crash,9,Neal Stephenson  
+Hyperion,10,Dan Simmons  
+Foundation,11,Isaac Asimov  
+The Left Hand of Darkness,12,Ursula K. Le Guin  
+Do Androids Dream of Electric Sheep?,13,Philip K. Dick  
+The Three-Body Problem,14,Liu Cixin  
+The Time Machine,15,H.G. Wells  
+The War of the Worlds,16,H.G. Wells  
+Frankenstein,17,Mary Shelley  
+Dracula,18,Bram Stoker  
+The Picture of Dorian Gray,19,Oscar Wilde  
+To Kill a Mockingbird,20,Harper Lee  
+Pride and Prejudice,21,Jane Austen  
+The Great Gatsby,22,F. Scott Fitzgerald  
+Moby-Dick,23,Herman Melville  
+Crime and Punishment,24,Fyodor Dostoevsky  
+One Hundred Years of Solitude,25,Gabriel García Márquez  
+The Catcher in the Rye,26,J.D. Salinger  
+Wuthering Heights,27,Emily Brontë  
+Jane Eyre,28,Charlotte Brontë  
+The Lord of the Rings,29,J.R.R. Tolkien  
+The Hobbit,30,J.R.R. Tolkien  
+Harry Potter and the Sorcerer’s Stone,31,J.K. Rowling  
+The Alchemist,32,Paulo Coelho  
+Life of Pi,33,Yann Martel  
+The Road,34,Cormac McCarthy  
+A Game of Thrones,35,George R.R. Martin  
+The Name of the Wind,36,Patrick Rothfuss  
+Good Omens,37,Terry Pratchett & Neil Gaiman  
+American Gods,38,Neil Gaiman  
+The Night Circus,39,Erin Morgenstern  
+Circe,40,Madeline Miller  
+The Midnight Library,41,Matt Haig  
+Cloud Atlas,42,David Mitchell  
+The Shadow of the Wind,43,Carlos Ruiz Zafón  
+The Kite Runner,44,Khaled Hosseini  
+The Book Thief,45,Markus Zusak  
+A Man Called Ove,46,Fredrik Backman  
+The Silent Patient,47,Alex Michaelides  
+Where the Crawdads Sing,48,Delia Owens  
+The Light We Lost,49,Jill Santopolo  
+Before We Were Strangers,50,Renée Carlino  

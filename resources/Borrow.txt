@@ -1,0 +1,15 @@
+d643dc,abc,War and Peace,2025-01-30,2025-02-13,approved,100.0
+02b065,abc,The Great Gatsby,2025-01-30,2025-02-13,approved,100.0
+c30073,abc,To Kill a Mockingbird,2025-01-30,2025-02-13,pending,100.0
+555209,abc,War and Peace,2025-01-30,2025-02-13,pending,100.0
+a30fd9,labib,1984,2025-02-03,2025-02-17,pending,100.0
+ff3483,labib,1984,2025-02-03,2025-02-17,pending,100.0
+ccbe8e,fgh,1984,2025-02-03,2025-02-17,pending,100.0
+396a04,qqq,Moby Dick,2025-02-03,2025-02-17,pending,100.0
+859703,tonoy,The Great Gatsby,2025-02-05,2025-02-19,accepted,100.0
+a1c7e0,tonoy,To Kill a Mockingbird,2025-02-05,2025-02-19,accepted,100.0
+b96edb,tonoy,Fundamentals of Wavelets,2025-02-05,2025-02-19,accepted,100.0
+13b66d,tonoy,Fahrenheit 451,2025-02-05,2025-02-19,pending,100.0
+7207ae,abc,1984,2025-05-03,2025-05-17,pending,100.0
+6b80eb,polok,The Time Machine,2025-09-04,2025-09-18,pending,100.0
+6aa2b8,polok,Dune,2025-09-04,2025-09-18,pending,100.0
